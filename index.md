@@ -402,7 +402,7 @@ please preview your site before committing, and make sure to run
   {% elsif site.carpentry == "lc" %}
   Library Carpentry
   {% endif %}
-  workshop, K-State affiliates will need access to a BeoCat account. Please request who do not already have a <a href="https://beocat.ksu.edu/">BeoCat account</a> by July 30. 
+  workshop, K-State affiliates will need access to a BeoCat account. If you do not already have a <a href="https://beocat.ksu.edu/">BeoCat account</a>, request one by July 30. 
   You will need access to software as described below.
   In addition, you will need an up-to-date web browser.
 </p>
