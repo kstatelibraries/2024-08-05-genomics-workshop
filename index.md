@@ -14,8 +14,8 @@ humantime: "08:00 am - 5:00 pm CDT"    # human-readable times for the workshop e
 startdate: 2024-08-05      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2024-08-09        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["David Molik", "Siddhartha Kanrar", "Tom Misilo"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Carolyn Jackson", "Carol Sevin", "Gwen Sibley", "Kendra Spahr"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
-email: ["kspahr@ksu.edu", "cjaxson@ksu.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["kspahr@ksu"]
+helper: ["Carolyn Jackson", "Carol Sevin", "Gwen Sibley", "Kendra Spahr", "Dave Turner"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+email: ["kspahr@ksu.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["kspahr@ksu"]
 collaborative_notes: https://pad.carpentries.org/2024-08-KAC2-genomics-workshop # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
