@@ -255,7 +255,7 @@ Edit the text to match who can attend the workshop. For instance:
 {% endcomment %}
 <p id="who-can-attend">
     <strong>Who can attend?:</strong>
-    This workshop is open to researchers, staff, and graduate students adffiliated with K-State or ARS.
+    This workshop is open to researchers, staff, and graduate students affiliated with K-State or ARS.
 </p>
 
 
