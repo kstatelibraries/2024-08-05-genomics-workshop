@@ -442,5 +442,20 @@ during the workshop.
 <a href="{{site.incubator_lesson_site}}">the lesson homepage</a> for instructions to follow
 to obtain the software and data you will need to follow the lesson. -->
 
-Additional information for setup will be forthcoming.
+<div id="setup-genomics">
+Install required software for the workshop or update any installations you already have. Directions and links to downloads:
+
+<ul>
+<li><a href="https://carpentries-incubator.github.io/life-sciences-workshop/setup.html">Life Sciences Workshop setup, day 1</a></li>
+<li>Genomics Workshop setup, days 2-4
+<ul>
+  <li><strong>NBAF and USDA participants</strong>, get your USDA SCINet account as soon as possible. Here is the link <a href="https://scinet.usda.gov/about/signup">https://scinet.usda.gov/about/signup</a>. You will need to work with your supervisor for application and IT unit for activation of the SCINet account.</li>
+  <li><strong>K-State participants</strong>, request a BeoCat account as soon as possible. If you are requesting an account for this workshop only, list Kendra Spahr kspahr@ksu.edu as your advisor and use the comments field to indicate that the account is for the Genomics Data Carpentry workshop from August 5-9.</li>
+  <li>The rest of the setup for days 2-4 will be done during the workshop.</li>
+  </ul>
+  </li>
+<li><a href="https://librarycarpentry.org/lc-data-intro/">Introduction to Working with Data (Regular Expressions) setup, day 5 at 9 am</a></li>
+<li><a href="https://swcarpentry.github.io/git-novice/">Version Control with Git setup, day 5 at 1 pm</a></li>
+</ul>
+</div>
 {% endif %}
