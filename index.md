@@ -450,7 +450,7 @@ Install required software for the workshop or update any installations you alrea
 <li>Genomics Workshop setup, days 2-4
 <ul>
   <li><strong>NBAF and USDA participants</strong>, get your USDA SCINet account as soon as possible. Here is the link <a href="https://scinet.usda.gov/about/signup">https://scinet.usda.gov/about/signup</a>. You will need to work with your supervisor for application and IT unit for activation of the SCINet account.</li>
-  <li><strong>K-State participants</strong>, request a BeoCat account as soon as possible. If you are requesting an account for this workshop only, list Kendra Spahr kspahr@ksu.edu as your advisor and use the comments field to indicate that the account is for the Genomics Data Carpentry workshop from August 5-9.</li>
+  <li><strong>K-State participants</strong>, request a <a href="https://beocat.ksu.edu/">BeoCat account</a> as soon as possible. If you are requesting an account for this workshop only, list Kendra Spahr kspahr@ksu.edu as your advisor and use the comments field to indicate that the account is for the Genomics Data Carpentry workshop from August 5-9.</li>
   <li>The rest of the setup for days 2-4 will be done during the workshop.</li>
   </ul>
   </li>
